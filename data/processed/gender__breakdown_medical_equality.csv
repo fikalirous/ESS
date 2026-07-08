@@ -1,0 +1,7 @@
+category,group_type,group_value,value,unit
+Women are treated less fairly than men,gender,Male,12.45,percent
+Men are treated less fairly than women,gender,Male,5.41,percent
+Women and men are treated equally fairly,gender,Male,82.14,percent
+Women are treated less fairly than men,gender,Female,20.24,percent
+Men are treated less fairly than women,gender,Female,3.58,percent
+Women and men are treated equally fairly,gender,Female,76.19,percent

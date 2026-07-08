@@ -1,0 +1,7 @@
+ess_round,year,response_category,freq,percent,cum_percent
+9,2018,Low Trust (0-4),1174.3736,54.24,54.24
+11,2023,Low Trust (0-4),947.7275,48.18,48.18
+9,2018,Neutral answer (5),391.5145,18.08,72.33
+11,2023,Neutral answer (5),376.3296,19.13,67.31
+9,2018,High Trust (6-10),599.1118,27.67,100.0
+11,2023,High Trust (6-10),642.9429,32.69,100.0

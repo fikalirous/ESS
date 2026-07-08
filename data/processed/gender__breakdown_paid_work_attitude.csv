@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+0 - Very bad for family life,gender,Male,0.68,percent
+1,gender,Male,1.55,percent
+2,gender,Male,6.22,percent
+3,gender,Male,14.19,percent
+4,gender,Male,23.69,percent
+5,gender,Male,19.42,percent
+6 - Very good for family life,gender,Male,34.24,percent
+0 - Very bad for family life,gender,Female,2.2,percent
+1,gender,Female,1.83,percent
+2,gender,Female,4.04,percent
+3,gender,Female,15.33,percent
+4,gender,Female,21.47,percent
+5,gender,Female,20.01,percent
+6 - Very good for family life,gender,Female,35.12,percent

@@ -1,0 +1,9 @@
+category,group_type,group_value,value,unit
+"Yes, once",gender,Male,3.44,percent
+"Yes, more than once",gender,Male,5.26,percent
+No,gender,Male,88.09,percent
+Have never had job or applied for a job,gender,Male,3.21,percent
+"Yes, once",gender,Female,7.92,percent
+"Yes, more than once",gender,Female,9.97,percent
+No,gender,Female,77.25,percent
+Have never had job or applied for a job,gender,Female,4.86,percent

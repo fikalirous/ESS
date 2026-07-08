@@ -1,0 +1,5 @@
+category,group_type,group_value,value,unit
+Yes,gender,Male,64.37,percent
+No,gender,Male,35.63,percent
+Yes,gender,Female,71.67,percent
+No,gender,Female,28.33,percent

@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+0 - Very bad for the economy,gender,Male,0.26,percent
+1,gender,Male,0.45,percent
+2,gender,Male,2.25,percent
+3,gender,Male,10.43,percent
+4,gender,Male,18.08,percent
+5,gender,Male,18.49,percent
+6 - Very good for the economy,gender,Male,50.04,percent
+0 - Very bad for the economy,gender,Female,0.26,percent
+1,gender,Female,0.25,percent
+2,gender,Female,1.01,percent
+3,gender,Female,4.57,percent
+4,gender,Female,14.53,percent
+5,gender,Female,20.47,percent
+6 - Very good for the economy,gender,Female,58.9,percent

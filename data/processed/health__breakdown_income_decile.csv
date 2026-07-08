@@ -1,0 +1,41 @@
+category,group_type,group_value,value,unit
+Not good health,income_decile,Bottom,39.81,percent
+Good health,income_decile,Bottom,60.19,percent
+Not good health,income_decile,2,24.3,percent
+Good health,income_decile,2,75.7,percent
+Not good health,income_decile,3,22.04,percent
+Good health,income_decile,3,77.96,percent
+Not good health,income_decile,4,14.94,percent
+Good health,income_decile,4,85.06,percent
+Not good health,income_decile,5,16.01,percent
+Good health,income_decile,5,83.99,percent
+Not good health,income_decile,6,16.01,percent
+Good health,income_decile,6,83.99,percent
+Not good health,income_decile,7,16.18,percent
+Good health,income_decile,7,83.82,percent
+Not good health,income_decile,8,14.82,percent
+Good health,income_decile,8,85.18,percent
+Not good health,income_decile,9,7.38,percent
+Good health,income_decile,9,92.62,percent
+Not good health,income_decile,Top,12.9,percent
+Good health,income_decile,Top,87.1,percent
+Happy,income_decile,Bottom,79.92,percent
+Unhappy,income_decile,Bottom,20.08,percent
+Happy,income_decile,2,88.67,percent
+Unhappy,income_decile,2,11.33,percent
+Happy,income_decile,3,87.77,percent
+Unhappy,income_decile,3,12.23,percent
+Happy,income_decile,4,92.17,percent
+Unhappy,income_decile,4,7.83,percent
+Happy,income_decile,5,88.41,percent
+Unhappy,income_decile,5,11.59,percent
+Happy,income_decile,6,92.95,percent
+Unhappy,income_decile,6,7.05,percent
+Happy,income_decile,7,93.91,percent
+Unhappy,income_decile,7,6.09,percent
+Happy,income_decile,8,93.61,percent
+Unhappy,income_decile,8,6.39,percent
+Happy,income_decile,9,100.0,percent
+Unhappy,income_decile,9,0.0,percent
+Happy,income_decile,Top,95.31,percent
+Unhappy,income_decile,Top,4.69,percent

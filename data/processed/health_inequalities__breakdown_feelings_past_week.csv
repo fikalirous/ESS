@@ -1,0 +1,33 @@
+category,group_type,group_value,value,unit
+None or almost none of the time,feeling_item,Felt depressed,77.42,percent
+Some of the time,feeling_item,Felt depressed,19.63,percent
+Most of the time,feeling_item,Felt depressed,2.11,percent
+All or almost all of the time,feeling_item,Felt depressed,0.84,percent
+None or almost none of the time,feeling_item,Felt everything did as effort,58.52,percent
+Some of the time,feeling_item,Felt everything did as effort,33.57,percent
+Most of the time,feeling_item,Felt everything did as effort,6.34,percent
+All or almost all of the time,feeling_item,Felt everything did as effort,1.57,percent
+None or almost none of the time,feeling_item,Sleep was restless,47.37,percent
+Some of the time,feeling_item,Sleep was restless,38.96,percent
+Most of the time,feeling_item,Sleep was restless,9.75,percent
+All or almost all of the time,feeling_item,Sleep was restless,3.92,percent
+None or almost none of the time,feeling_item,Were happy,2.33,percent
+Some of the time,feeling_item,Were happy,15.72,percent
+Most of the time,feeling_item,Were happy,43.48,percent
+All or almost all of the time,feeling_item,Were happy,38.46,percent
+None or almost none of the time,feeling_item,Felt lonely,72.26,percent
+Some of the time,feeling_item,Felt lonely,23.72,percent
+Most of the time,feeling_item,Felt lonely,3.0,percent
+All or almost all of the time,feeling_item,Felt lonely,1.03,percent
+None or almost none of the time,feeling_item,Enjoyed life,2.37,percent
+Some of the time,feeling_item,Enjoyed life,15.94,percent
+Most of the time,feeling_item,Enjoyed life,43.18,percent
+All or almost all of the time,feeling_item,Enjoyed life,38.52,percent
+None or almost none of the time,feeling_item,Felt sad,61.84,percent
+Some of the time,feeling_item,Felt sad,34.67,percent
+Most of the time,feeling_item,Felt sad,2.94,percent
+All or almost all of the time,feeling_item,Felt sad,0.56,percent
+None or almost none of the time,feeling_item,Could not get going,60.6,percent
+Some of the time,feeling_item,Could not get going,35.02,percent
+Most of the time,feeling_item,Could not get going,3.63,percent
+All or almost all of the time,feeling_item,Could not get going,0.75,percent

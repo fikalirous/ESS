@@ -1,0 +1,16 @@
+category,group_type,group_value,value,unit
+Lower Trust (0-4),education,<Lower Secondary,36.0,percent
+Lower Trust (0-4),education,Lower Secondary,34.0,percent
+Lower Trust (0-4),education,Upper Secondary,37.0,percent
+Lower Trust (0-4),education,Advanced Vocational,26.0,percent
+Lower Trust (0-4),education,Tertiary,19.0,percent
+Neutral answer (5),education,<Lower Secondary,16.0,percent
+Neutral answer (5),education,Lower Secondary,17.0,percent
+Neutral answer (5),education,Upper Secondary,19.0,percent
+Neutral answer (5),education,Advanced Vocational,19.0,percent
+Neutral answer (5),education,Tertiary,15.0,percent
+Higher Trust (6-10),education,<Lower Secondary,48.0,percent
+Higher Trust (6-10),education,Lower Secondary,49.0,percent
+Higher Trust (6-10),education,Upper Secondary,44.0,percent
+Higher Trust (6-10),education,Advanced Vocational,55.0,percent
+Higher Trust (6-10),education,Tertiary,66.0,percent

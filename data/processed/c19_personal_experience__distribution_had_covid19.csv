@@ -1,0 +1,4 @@
+ess_round,year,response_category,freq,percent,cum_percent
+10,2021/22,"Yes, I tested positive for COVID-19",822.2818,47.07,47.07
+10,2021/22,"Yes, I think I had COVID-19 but was not tested/did not test positive",54.8466,3.14,50.21
+10,2021/22,"No, I have not had COVID-19",869.8716,49.79,100.0

@@ -1,0 +1,22 @@
+ess_round,year,series,value
+2,2004,Not at all true,79.3751
+5,2010,Not at all true,158.9862
+9,2018,Not at all true,87.1882
+2,2004,A little true,128.4685
+5,2010,A little true,197.8088
+9,2018,A little true,178.5283
+2,2004,Quite true,314.3306
+5,2010,Quite true,216.5748
+9,2018,Quite true,359.3632
+2,2004,Very true,401.5192
+5,2010,Very true,191.8718
+9,2018,Very true,465.4653
+2,2004,Not Applicable,1304.878
+5,2010,Not Applicable,1758.906
+9,2018,Not Applicable,1106.0798
+2,2004,Refusal/Don't know,33.1555
+5,2010,Refusal/Don't know,42.3792
+9,2018,Refusal/Don't know,19.3752
+2,2004,No Answer,22.9193
+5,2010,No Answer,7.9471
+9,2018,No Answer,0.0

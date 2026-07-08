@@ -1,0 +1,22 @@
+category,group_type,group_value,value,unit
+Very good,employment,In paid work,44.0,percent
+Good,employment,In paid work,46.97,percent
+Fair/bad/very bad,employment,In paid work,9.03,percent
+Very good,employment,"Unemployed, looking for job",24.73,percent
+Good,employment,"Unemployed, looking for job",57.13,percent
+Fair/bad/very bad,employment,"Unemployed, looking for job",18.15,percent
+Very good,education,< Lower Secondary,22.1,percent
+Good,education,< Lower Secondary,37.71,percent
+Fair/bad/very bad,education,< Lower Secondary,40.2,percent
+Very good,education,Lower Secondary,32.78,percent
+Good,education,Lower Secondary,45.91,percent
+Fair/bad/very bad,education,Lower Secondary,21.31,percent
+Very good,education,Upper Secondary,40.68,percent
+Good,education,Upper Secondary,45.36,percent
+Fair/bad/very bad,education,Upper Secondary,13.96,percent
+Very good,education,Advanced Vocational,39.98,percent
+Good,education,Advanced Vocational,45.82,percent
+Fair/bad/very bad,education,Advanced Vocational,14.2,percent
+Very good,education,Tertiary,47.36,percent
+Good,education,Tertiary,39.97,percent
+Fair/bad/very bad,education,Tertiary,12.67,percent

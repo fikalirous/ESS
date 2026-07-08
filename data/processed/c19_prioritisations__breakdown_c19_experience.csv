@@ -1,0 +1,95 @@
+category,group_type,group_value,value,unit
+health_vs_economy: Much more important to prioritise public health,c19_experience,"Yes, I tested positive for COVID-19",13.71,percent
+health_vs_economy: Much more important to prioritise public health,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",12.33,percent
+health_vs_economy: Much more important to prioritise public health,c19_experience,"No, I have not had COVID-19",12.07,percent
+health_vs_economy: 1,c19_experience,"Yes, I tested positive for COVID-19",3.11,percent
+health_vs_economy: 1,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.67,percent
+health_vs_economy: 1,c19_experience,"No, I have not had COVID-19",8.67,percent
+health_vs_economy: 2,c19_experience,"Yes, I tested positive for COVID-19",13.67,percent
+health_vs_economy: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",5.41,percent
+health_vs_economy: 2,c19_experience,"No, I have not had COVID-19",15.86,percent
+health_vs_economy: 3,c19_experience,"Yes, I tested positive for COVID-19",10.54,percent
+health_vs_economy: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",10.08,percent
+health_vs_economy: 3,c19_experience,"No, I have not had COVID-19",9.63,percent
+health_vs_economy: 4,c19_experience,"Yes, I tested positive for COVID-19",7.55,percent
+health_vs_economy: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",20.35,percent
+health_vs_economy: 4,c19_experience,"No, I have not had COVID-19",10.16,percent
+health_vs_economy: 5,c19_experience,"Yes, I tested positive for COVID-19",35.27,percent
+health_vs_economy: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",11.01,percent
+health_vs_economy: 5,c19_experience,"No, I have not had COVID-19",19.25,percent
+health_vs_economy: 6,c19_experience,"Yes, I tested positive for COVID-19",5.2,percent
+health_vs_economy: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",14.85,percent
+health_vs_economy: 6,c19_experience,"No, I have not had COVID-19",6.67,percent
+health_vs_economy: 7,c19_experience,"Yes, I tested positive for COVID-19",5.73,percent
+health_vs_economy: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",10.37,percent
+health_vs_economy: 7,c19_experience,"No, I have not had COVID-19",6.04,percent
+health_vs_economy: 8,c19_experience,"Yes, I tested positive for COVID-19",3.81,percent
+health_vs_economy: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",2.94,percent
+health_vs_economy: 8,c19_experience,"No, I have not had COVID-19",4.97,percent
+health_vs_economy: 9,c19_experience,"Yes, I tested positive for COVID-19",0.81,percent
+health_vs_economy: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.0,percent
+health_vs_economy: 9,c19_experience,"No, I have not had COVID-19",4.26,percent
+health_vs_economy: Much more important to prioritise economic activity,c19_experience,"Yes, I tested positive for COVID-19",0.6,percent
+health_vs_economy: Much more important to prioritise economic activity,c19_experience,"No, I have not had COVID-19",2.42,percent
+privacy_vs_monitoring: Much more important to monitor and track the public,c19_experience,"Yes, I tested positive for COVID-19",2.14,percent
+privacy_vs_monitoring: Much more important to monitor and track the public,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",3.79,percent
+privacy_vs_monitoring: Much more important to monitor and track the public,c19_experience,"No, I have not had COVID-19",2.77,percent
+privacy_vs_monitoring: 1,c19_experience,"Yes, I tested positive for COVID-19",0.7,percent
+privacy_vs_monitoring: 1,c19_experience,"No, I have not had COVID-19",1.86,percent
+privacy_vs_monitoring: 2,c19_experience,"Yes, I tested positive for COVID-19",3.45,percent
+privacy_vs_monitoring: 2,c19_experience,"No, I have not had COVID-19",4.1,percent
+privacy_vs_monitoring: 3,c19_experience,"Yes, I tested positive for COVID-19",5.23,percent
+privacy_vs_monitoring: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.6,percent
+privacy_vs_monitoring: 3,c19_experience,"No, I have not had COVID-19",4.87,percent
+privacy_vs_monitoring: 4,c19_experience,"Yes, I tested positive for COVID-19",3.2,percent
+privacy_vs_monitoring: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",33.49,percent
+privacy_vs_monitoring: 4,c19_experience,"No, I have not had COVID-19",4.89,percent
+privacy_vs_monitoring: 5,c19_experience,"Yes, I tested positive for COVID-19",20.39,percent
+privacy_vs_monitoring: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.27,percent
+privacy_vs_monitoring: 5,c19_experience,"No, I have not had COVID-19",17.99,percent
+privacy_vs_monitoring: 6,c19_experience,"Yes, I tested positive for COVID-19",10.17,percent
+privacy_vs_monitoring: 6,c19_experience,"No, I have not had COVID-19",14.26,percent
+privacy_vs_monitoring: 7,c19_experience,"Yes, I tested positive for COVID-19",12.37,percent
+privacy_vs_monitoring: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",26.74,percent
+privacy_vs_monitoring: 7,c19_experience,"No, I have not had COVID-19",8.99,percent
+privacy_vs_monitoring: 8,c19_experience,"Yes, I tested positive for COVID-19",16.56,percent
+privacy_vs_monitoring: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",15.55,percent
+privacy_vs_monitoring: 8,c19_experience,"No, I have not had COVID-19",19.66,percent
+privacy_vs_monitoring: 9,c19_experience,"Yes, I tested positive for COVID-19",6.35,percent
+privacy_vs_monitoring: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",17.56,percent
+privacy_vs_monitoring: 9,c19_experience,"No, I have not had COVID-19",8.51,percent
+privacy_vs_monitoring: Much more important to maintain public privacy,c19_experience,"Yes, I tested positive for COVID-19",19.44,percent
+privacy_vs_monitoring: Much more important to maintain public privacy,c19_experience,"No, I have not had COVID-19",12.09,percent
+rules_vs_own_decisions: Much more important to follow government rules,c19_experience,"Yes, I tested positive for COVID-19",9.67,percent
+rules_vs_own_decisions: Much more important to follow government rules,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",5.98,percent
+rules_vs_own_decisions: Much more important to follow government rules,c19_experience,"No, I have not had COVID-19",11.23,percent
+rules_vs_own_decisions: 1,c19_experience,"Yes, I tested positive for COVID-19",6.17,percent
+rules_vs_own_decisions: 1,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",0.49,percent
+rules_vs_own_decisions: 1,c19_experience,"No, I have not had COVID-19",5.99,percent
+rules_vs_own_decisions: 2,c19_experience,"Yes, I tested positive for COVID-19",10.66,percent
+rules_vs_own_decisions: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",4.84,percent
+rules_vs_own_decisions: 2,c19_experience,"No, I have not had COVID-19",11.09,percent
+rules_vs_own_decisions: 3,c19_experience,"Yes, I tested positive for COVID-19",11.42,percent
+rules_vs_own_decisions: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",2.04,percent
+rules_vs_own_decisions: 3,c19_experience,"No, I have not had COVID-19",8.73,percent
+rules_vs_own_decisions: 4,c19_experience,"Yes, I tested positive for COVID-19",9.23,percent
+rules_vs_own_decisions: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.48,percent
+rules_vs_own_decisions: 4,c19_experience,"No, I have not had COVID-19",7.01,percent
+rules_vs_own_decisions: 5,c19_experience,"Yes, I tested positive for COVID-19",17.87,percent
+rules_vs_own_decisions: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",37.56,percent
+rules_vs_own_decisions: 5,c19_experience,"No, I have not had COVID-19",19.46,percent
+rules_vs_own_decisions: 6,c19_experience,"Yes, I tested positive for COVID-19",11.74,percent
+rules_vs_own_decisions: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",13.39,percent
+rules_vs_own_decisions: 6,c19_experience,"No, I have not had COVID-19",8.9,percent
+rules_vs_own_decisions: 7,c19_experience,"Yes, I tested positive for COVID-19",9.13,percent
+rules_vs_own_decisions: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",20.72,percent
+rules_vs_own_decisions: 7,c19_experience,"No, I have not had COVID-19",10.2,percent
+rules_vs_own_decisions: 8,c19_experience,"Yes, I tested positive for COVID-19",5.43,percent
+rules_vs_own_decisions: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.49,percent
+rules_vs_own_decisions: 8,c19_experience,"No, I have not had COVID-19",9.82,percent
+rules_vs_own_decisions: 9,c19_experience,"Yes, I tested positive for COVID-19",2.47,percent
+rules_vs_own_decisions: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.19,percent
+rules_vs_own_decisions: 9,c19_experience,"No, I have not had COVID-19",4.79,percent
+rules_vs_own_decisions: Much more important to make your own decisions,c19_experience,"Yes, I tested positive for COVID-19",6.21,percent
+rules_vs_own_decisions: Much more important to make your own decisions,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",0.81,percent
+rules_vs_own_decisions: Much more important to make your own decisions,c19_experience,"No, I have not had COVID-19",2.78,percent

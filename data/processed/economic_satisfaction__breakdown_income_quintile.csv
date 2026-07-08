@@ -1,0 +1,24 @@
+category,group_type,group_value,value,unit
+Living comfortably,income_quintile,Bottom 20%,16.81,percent
+Living comfortably,income_quintile,2nd quintile,34.87,percent
+Living comfortably,income_quintile,3rd quintile,43.24,percent
+Living comfortably,income_quintile,4th quintile,58.12,percent
+Living comfortably,income_quintile,Top 20%,74.67,percent
+Living comfortably,income_quintile,All,41.51,percent
+Coping,income_quintile,Bottom 20%,45.75,percent
+Coping,income_quintile,2nd quintile,46.19,percent
+Coping,income_quintile,3rd quintile,43.89,percent
+Coping,income_quintile,4th quintile,36.77,percent
+Coping,income_quintile,Top 20%,23.26,percent
+Coping,income_quintile,All,40.74,percent
+Finding it difficult,income_quintile,Bottom 20%,25.1,percent
+Finding it difficult,income_quintile,2nd quintile,14.45,percent
+Finding it difficult,income_quintile,3rd quintile,9.89,percent
+Finding it difficult,income_quintile,4th quintile,4.8,percent
+Finding it difficult,income_quintile,Top 20%,2.07,percent
+Finding it difficult,income_quintile,All,12.66,percent
+Finding it very difficult,income_quintile,Bottom 20%,12.34,percent
+Finding it very difficult,income_quintile,2nd quintile,4.48,percent
+Finding it very difficult,income_quintile,3rd quintile,2.98,percent
+Finding it very difficult,income_quintile,4th quintile,0.3,percent
+Finding it very difficult,income_quintile,All,5.09,percent

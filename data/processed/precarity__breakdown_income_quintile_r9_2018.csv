@@ -1,0 +1,31 @@
+category,group_type,group_value,value,unit
+Not at all true,income_quintile,Bottom 20%,15.5251,percent
+A little true,income_quintile,Bottom 20%,18.7215,percent
+Quite true,income_quintile,Bottom 20%,28.7671,percent
+Very true,income_quintile,Bottom 20%,36.9863,percent
+Insecure (combined: not at all/a little true),income_quintile,Bottom 20%,34.2466,percent
+Secure (combined: quite/very true),income_quintile,Bottom 20%,65.7534,percent
+Not at all true,income_quintile,2nd quintile,10.2273,percent
+A little true,income_quintile,2nd quintile,18.4659,percent
+Quite true,income_quintile,2nd quintile,28.6932,percent
+Very true,income_quintile,2nd quintile,42.6136,percent
+Insecure (combined: not at all/a little true),income_quintile,2nd quintile,28.6932,percent
+Secure (combined: quite/very true),income_quintile,2nd quintile,71.3068,percent
+Not at all true,income_quintile,3rd quintile,9.5855,percent
+A little true,income_quintile,3rd quintile,19.9482,percent
+Quite true,income_quintile,3rd quintile,31.6062,percent
+Very true,income_quintile,3rd quintile,38.8601,percent
+Insecure (combined: not at all/a little true),income_quintile,3rd quintile,29.5337,percent
+Secure (combined: quite/very true),income_quintile,3rd quintile,70.4663,percent
+Not at all true,income_quintile,4th quintile,5.6555,percent
+A little true,income_quintile,4th quintile,11.3111,percent
+Quite true,income_quintile,4th quintile,39.0746,percent
+Very true,income_quintile,4th quintile,43.9589,percent
+Insecure (combined: not at all/a little true),income_quintile,4th quintile,16.9666,percent
+Secure (combined: quite/very true),income_quintile,4th quintile,83.0334,percent
+Not at all true,income_quintile,Top 20%,7.5419,percent
+A little true,income_quintile,Top 20%,10.8939,percent
+Quite true,income_quintile,Top 20%,29.6089,percent
+Very true,income_quintile,Top 20%,51.9553,percent
+Insecure (combined: not at all/a little true),income_quintile,Top 20%,18.4358,percent
+Secure (combined: quite/very true),income_quintile,Top 20%,81.5642,percent

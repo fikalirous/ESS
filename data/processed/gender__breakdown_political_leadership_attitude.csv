@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+0 - Very bad for politics,gender,Male,1.46,percent
+1,gender,Male,1.68,percent
+2,gender,Male,2.64,percent
+3,gender,Male,16.91,percent
+4,gender,Male,18.34,percent
+5,gender,Male,20.28,percent
+6 - Very good for politics,gender,Male,38.7,percent
+0 - Very bad for politics,gender,Female,0.94,percent
+1,gender,Female,0.07,percent
+2,gender,Female,2.53,percent
+3,gender,Female,11.42,percent
+4,gender,Female,16.04,percent
+5,gender,Female,20.62,percent
+6 - Very good for politics,gender,Female,48.38,percent

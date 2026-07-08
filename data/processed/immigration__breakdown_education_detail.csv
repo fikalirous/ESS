@@ -1,0 +1,31 @@
+category,group_type,group_value,value,unit
+Economy - Negative view,education,<Lower Secondary,57.96,percent
+Economy - Positive view,education,<Lower Secondary,42.04,percent
+Culture - Negative view,education,<Lower Secondary,56.02,percent
+Culture - Positive view,education,<Lower Secondary,43.98,percent
+Place to live - Negative view,education,<Lower Secondary,63.29,percent
+Place to live - Positive view,education,<Lower Secondary,36.71,percent
+Economy - Negative view,education,Lower Secondary,53.77,percent
+Economy - Positive view,education,Lower Secondary,46.23,percent
+Culture - Negative view,education,Lower Secondary,47.8,percent
+Culture - Positive view,education,Lower Secondary,52.2,percent
+Place to live - Negative view,education,Lower Secondary,50.22,percent
+Place to live - Positive view,education,Lower Secondary,49.78,percent
+Economy - Negative view,education,Upper Secondary,45.88,percent
+Economy - Positive view,education,Upper Secondary,54.12,percent
+Culture - Negative view,education,Upper Secondary,42.91,percent
+Culture - Positive view,education,Upper Secondary,57.09,percent
+Place to live - Negative view,education,Upper Secondary,41.83,percent
+Place to live - Positive view,education,Upper Secondary,58.17,percent
+Economy - Negative view,education,Advanced Vocational,38.09,percent
+Economy - Positive view,education,Advanced Vocational,61.91,percent
+Culture - Negative view,education,Advanced Vocational,34.2,percent
+Culture - Positive view,education,Advanced Vocational,65.8,percent
+Place to live - Negative view,education,Advanced Vocational,39.14,percent
+Place to live - Positive view,education,Advanced Vocational,60.86,percent
+Economy - Negative view,education,Tertiary,21.76,percent
+Economy - Positive view,education,Tertiary,78.24,percent
+Culture - Negative view,education,Tertiary,19.38,percent
+Culture - Positive view,education,Tertiary,80.62,percent
+Place to live - Negative view,education,Tertiary,20.38,percent
+Place to live - Positive view,education,Tertiary,79.62,percent

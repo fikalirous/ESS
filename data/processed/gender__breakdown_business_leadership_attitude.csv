@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+0 - Very bad for businesses,gender,Male,0.43,percent
+1,gender,Male,0.51,percent
+2,gender,Male,1.76,percent
+3,gender,Male,14.76,percent
+4,gender,Male,19.46,percent
+5,gender,Male,23.36,percent
+6 - Very good for businesses,gender,Male,39.72,percent
+0 - Very bad for businesses,gender,Female,0.52,percent
+1,gender,Female,0.23,percent
+2,gender,Female,1.56,percent
+3,gender,Female,9.21,percent
+4,gender,Female,15.92,percent
+5,gender,Female,20.89,percent
+6 - Very good for businesses,gender,Female,51.66,percent

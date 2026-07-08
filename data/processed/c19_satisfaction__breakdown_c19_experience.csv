@@ -1,0 +1,163 @@
+category,group_type,group_value,value,unit
+government_handling: Extremely dissatisfied,c19_experience,"Yes, I tested positive for COVID-19",1.81,percent
+government_handling: Extremely dissatisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.36,percent
+government_handling: Extremely dissatisfied,c19_experience,"No, I have not had COVID-19",1.74,percent
+government_handling: 1,c19_experience,"Yes, I tested positive for COVID-19",0.97,percent
+government_handling: 1,c19_experience,"No, I have not had COVID-19",0.71,percent
+government_handling: 2,c19_experience,"Yes, I tested positive for COVID-19",3.55,percent
+government_handling: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.68,percent
+government_handling: 2,c19_experience,"No, I have not had COVID-19",2.21,percent
+government_handling: 3,c19_experience,"Yes, I tested positive for COVID-19",2.85,percent
+government_handling: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",4.04,percent
+government_handling: 3,c19_experience,"No, I have not had COVID-19",3.35,percent
+government_handling: 4,c19_experience,"Yes, I tested positive for COVID-19",4.59,percent
+government_handling: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",4.36,percent
+government_handling: 4,c19_experience,"No, I have not had COVID-19",4.21,percent
+government_handling: 5,c19_experience,"Yes, I tested positive for COVID-19",12.94,percent
+government_handling: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",14.96,percent
+government_handling: 5,c19_experience,"No, I have not had COVID-19",9.4,percent
+government_handling: 6,c19_experience,"Yes, I tested positive for COVID-19",11.84,percent
+government_handling: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",18.75,percent
+government_handling: 6,c19_experience,"No, I have not had COVID-19",15.56,percent
+government_handling: 7,c19_experience,"Yes, I tested positive for COVID-19",23.95,percent
+government_handling: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",14.88,percent
+government_handling: 7,c19_experience,"No, I have not had COVID-19",20.08,percent
+government_handling: 8,c19_experience,"Yes, I tested positive for COVID-19",22.59,percent
+government_handling: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",24.15,percent
+government_handling: 8,c19_experience,"No, I have not had COVID-19",21.02,percent
+government_handling: 9,c19_experience,"Yes, I tested positive for COVID-19",7.58,percent
+government_handling: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",10.62,percent
+government_handling: 9,c19_experience,"No, I have not had COVID-19",11.42,percent
+government_handling: Extremely satisfied,c19_experience,"Yes, I tested positive for COVID-19",7.34,percent
+government_handling: Extremely satisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",5.19,percent
+government_handling: Extremely satisfied,c19_experience,"No, I have not had COVID-19",10.31,percent
+health_services: Extremely dissatisfied,c19_experience,"Yes, I tested positive for COVID-19",2.05,percent
+health_services: Extremely dissatisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",4.76,percent
+health_services: Extremely dissatisfied,c19_experience,"No, I have not had COVID-19",3.35,percent
+health_services: 1,c19_experience,"Yes, I tested positive for COVID-19",2.06,percent
+health_services: 1,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.35,percent
+health_services: 1,c19_experience,"No, I have not had COVID-19",0.85,percent
+health_services: 2,c19_experience,"Yes, I tested positive for COVID-19",6.04,percent
+health_services: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",3.09,percent
+health_services: 2,c19_experience,"No, I have not had COVID-19",2.36,percent
+health_services: 3,c19_experience,"Yes, I tested positive for COVID-19",5.42,percent
+health_services: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.34,percent
+health_services: 3,c19_experience,"No, I have not had COVID-19",4.2,percent
+health_services: 4,c19_experience,"Yes, I tested positive for COVID-19",4.96,percent
+health_services: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",3.24,percent
+health_services: 4,c19_experience,"No, I have not had COVID-19",4.26,percent
+health_services: 5,c19_experience,"Yes, I tested positive for COVID-19",9.36,percent
+health_services: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",6.35,percent
+health_services: 5,c19_experience,"No, I have not had COVID-19",11.16,percent
+health_services: 6,c19_experience,"Yes, I tested positive for COVID-19",11.55,percent
+health_services: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",20.74,percent
+health_services: 6,c19_experience,"No, I have not had COVID-19",10.11,percent
+health_services: 7,c19_experience,"Yes, I tested positive for COVID-19",20.72,percent
+health_services: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",12.03,percent
+health_services: 7,c19_experience,"No, I have not had COVID-19",19.29,percent
+health_services: 8,c19_experience,"Yes, I tested positive for COVID-19",23.84,percent
+health_services: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",13.87,percent
+health_services: 8,c19_experience,"No, I have not had COVID-19",22.92,percent
+health_services: 9,c19_experience,"Yes, I tested positive for COVID-19",7.76,percent
+health_services: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",19.46,percent
+health_services: 9,c19_experience,"No, I have not had COVID-19",14.94,percent
+health_services: Extremely satisfied,c19_experience,"Yes, I tested positive for COVID-19",6.25,percent
+health_services: Extremely satisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",8.77,percent
+health_services: Extremely satisfied,c19_experience,"No, I have not had COVID-19",6.55,percent
+job_income_losses: Extremely dissatisfied,c19_experience,"Yes, I tested positive for COVID-19",3.05,percent
+job_income_losses: Extremely dissatisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",3.2,percent
+job_income_losses: Extremely dissatisfied,c19_experience,"No, I have not had COVID-19",3.28,percent
+job_income_losses: 1,c19_experience,"Yes, I tested positive for COVID-19",2.55,percent
+job_income_losses: 1,c19_experience,"No, I have not had COVID-19",1.89,percent
+job_income_losses: 2,c19_experience,"Yes, I tested positive for COVID-19",3.55,percent
+job_income_losses: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.37,percent
+job_income_losses: 2,c19_experience,"No, I have not had COVID-19",4.99,percent
+job_income_losses: 3,c19_experience,"Yes, I tested positive for COVID-19",4.53,percent
+job_income_losses: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",8.87,percent
+job_income_losses: 3,c19_experience,"No, I have not had COVID-19",4.06,percent
+job_income_losses: 4,c19_experience,"Yes, I tested positive for COVID-19",5.95,percent
+job_income_losses: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",7.26,percent
+job_income_losses: 4,c19_experience,"No, I have not had COVID-19",4.37,percent
+job_income_losses: 5,c19_experience,"Yes, I tested positive for COVID-19",8.85,percent
+job_income_losses: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",8.66,percent
+job_income_losses: 5,c19_experience,"No, I have not had COVID-19",13.48,percent
+job_income_losses: 6,c19_experience,"Yes, I tested positive for COVID-19",12.56,percent
+job_income_losses: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",2.48,percent
+job_income_losses: 6,c19_experience,"No, I have not had COVID-19",12.3,percent
+job_income_losses: 7,c19_experience,"Yes, I tested positive for COVID-19",22.54,percent
+job_income_losses: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",8.85,percent
+job_income_losses: 7,c19_experience,"No, I have not had COVID-19",16.44,percent
+job_income_losses: 8,c19_experience,"Yes, I tested positive for COVID-19",21.4,percent
+job_income_losses: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",37.45,percent
+job_income_losses: 8,c19_experience,"No, I have not had COVID-19",18.87,percent
+job_income_losses: 9,c19_experience,"Yes, I tested positive for COVID-19",6.89,percent
+job_income_losses: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",10.01,percent
+job_income_losses: 9,c19_experience,"No, I have not had COVID-19",10.3,percent
+job_income_losses: Extremely satisfied,c19_experience,"Yes, I tested positive for COVID-19",8.12,percent
+job_income_losses: Extremely satisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",11.86,percent
+job_income_losses: Extremely satisfied,c19_experience,"No, I have not had COVID-19",10.03,percent
+elderly_care_homes: Extremely dissatisfied,c19_experience,"Yes, I tested positive for COVID-19",8.65,percent
+elderly_care_homes: Extremely dissatisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",9.64,percent
+elderly_care_homes: Extremely dissatisfied,c19_experience,"No, I have not had COVID-19",10.28,percent
+elderly_care_homes: 1,c19_experience,"Yes, I tested positive for COVID-19",7.0,percent
+elderly_care_homes: 1,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.2,percent
+elderly_care_homes: 1,c19_experience,"No, I have not had COVID-19",6.59,percent
+elderly_care_homes: 2,c19_experience,"Yes, I tested positive for COVID-19",11.0,percent
+elderly_care_homes: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",3.5,percent
+elderly_care_homes: 2,c19_experience,"No, I have not had COVID-19",11.32,percent
+elderly_care_homes: 3,c19_experience,"Yes, I tested positive for COVID-19",10.96,percent
+elderly_care_homes: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",11.96,percent
+elderly_care_homes: 3,c19_experience,"No, I have not had COVID-19",10.33,percent
+elderly_care_homes: 4,c19_experience,"Yes, I tested positive for COVID-19",11.65,percent
+elderly_care_homes: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",13.56,percent
+elderly_care_homes: 4,c19_experience,"No, I have not had COVID-19",11.22,percent
+elderly_care_homes: 5,c19_experience,"Yes, I tested positive for COVID-19",14.43,percent
+elderly_care_homes: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",15.82,percent
+elderly_care_homes: 5,c19_experience,"No, I have not had COVID-19",12.31,percent
+elderly_care_homes: 6,c19_experience,"Yes, I tested positive for COVID-19",10.12,percent
+elderly_care_homes: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",15.96,percent
+elderly_care_homes: 6,c19_experience,"No, I have not had COVID-19",8.99,percent
+elderly_care_homes: 7,c19_experience,"Yes, I tested positive for COVID-19",9.84,percent
+elderly_care_homes: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",8.53,percent
+elderly_care_homes: 7,c19_experience,"No, I have not had COVID-19",10.76,percent
+elderly_care_homes: 8,c19_experience,"Yes, I tested positive for COVID-19",9.68,percent
+elderly_care_homes: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",9.35,percent
+elderly_care_homes: 8,c19_experience,"No, I have not had COVID-19",11.12,percent
+elderly_care_homes: 9,c19_experience,"Yes, I tested positive for COVID-19",4.27,percent
+elderly_care_homes: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",9.3,percent
+elderly_care_homes: 9,c19_experience,"No, I have not had COVID-19",4.71,percent
+elderly_care_homes: Extremely satisfied,c19_experience,"Yes, I tested positive for COVID-19",2.4,percent
+elderly_care_homes: Extremely satisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.17,percent
+elderly_care_homes: Extremely satisfied,c19_experience,"No, I have not had COVID-19",2.38,percent
+school_aged_children: Extremely dissatisfied,c19_experience,"Yes, I tested positive for COVID-19",3.87,percent
+school_aged_children: Extremely dissatisfied,c19_experience,"No, I have not had COVID-19",2.95,percent
+school_aged_children: 1,c19_experience,"Yes, I tested positive for COVID-19",3.69,percent
+school_aged_children: 1,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",1.9,percent
+school_aged_children: 1,c19_experience,"No, I have not had COVID-19",2.33,percent
+school_aged_children: 2,c19_experience,"Yes, I tested positive for COVID-19",7.73,percent
+school_aged_children: 2,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",9.08,percent
+school_aged_children: 2,c19_experience,"No, I have not had COVID-19",5.04,percent
+school_aged_children: 3,c19_experience,"Yes, I tested positive for COVID-19",7.32,percent
+school_aged_children: 3,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",4.98,percent
+school_aged_children: 3,c19_experience,"No, I have not had COVID-19",8.86,percent
+school_aged_children: 4,c19_experience,"Yes, I tested positive for COVID-19",9.68,percent
+school_aged_children: 4,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",10.1,percent
+school_aged_children: 4,c19_experience,"No, I have not had COVID-19",11.05,percent
+school_aged_children: 5,c19_experience,"Yes, I tested positive for COVID-19",16.61,percent
+school_aged_children: 5,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",16.29,percent
+school_aged_children: 5,c19_experience,"No, I have not had COVID-19",16.77,percent
+school_aged_children: 6,c19_experience,"Yes, I tested positive for COVID-19",15.4,percent
+school_aged_children: 6,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",7.53,percent
+school_aged_children: 6,c19_experience,"No, I have not had COVID-19",12.65,percent
+school_aged_children: 7,c19_experience,"Yes, I tested positive for COVID-19",15.96,percent
+school_aged_children: 7,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",19.48,percent
+school_aged_children: 7,c19_experience,"No, I have not had COVID-19",15.22,percent
+school_aged_children: 8,c19_experience,"Yes, I tested positive for COVID-19",11.64,percent
+school_aged_children: 8,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",13.12,percent
+school_aged_children: 8,c19_experience,"No, I have not had COVID-19",14.66,percent
+school_aged_children: 9,c19_experience,"Yes, I tested positive for COVID-19",4.13,percent
+school_aged_children: 9,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",11.58,percent
+school_aged_children: 9,c19_experience,"No, I have not had COVID-19",6.37,percent
+school_aged_children: Extremely satisfied,c19_experience,"Yes, I tested positive for COVID-19",3.98,percent
+school_aged_children: Extremely satisfied,c19_experience,"Yes, I think I had COVID-19 but was not tested/did not test positive",5.95,percent
+school_aged_children: Extremely satisfied,c19_experience,"No, I have not had COVID-19",4.09,percent

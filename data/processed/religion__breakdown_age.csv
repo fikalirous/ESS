@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+Yes,age,25 and under,55.78,percent
+No,age,25 and under,44.22,percent
+Yes,age,26-35,66.17,percent
+No,age,26-35,33.83,percent
+Yes,age,36-45,63.36,percent
+No,age,36-45,36.64,percent
+Yes,age,46-55,69.6,percent
+No,age,46-55,30.4,percent
+Yes,age,56-65,71.76,percent
+No,age,56-65,28.24,percent
+Yes,age,66-75,82.67,percent
+No,age,66-75,17.33,percent
+Yes,age,76 plus,86.23,percent
+No,age,76 plus,13.77,percent

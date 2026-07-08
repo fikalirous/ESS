@@ -1,0 +1,9 @@
+category,group_type,group_value,value,unit
+"Yes, once",gender,Male,2.94,percent
+"Yes, more than once",gender,Male,3.14,percent
+No,gender,Male,88.35,percent
+Have never had any contact with the police,gender,Male,5.58,percent
+"Yes, once",gender,Female,1.81,percent
+"Yes, more than once",gender,Female,1.93,percent
+No,gender,Female,87.48,percent
+Have never had any contact with the police,gender,Female,8.78,percent

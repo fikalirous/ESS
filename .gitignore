@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+scratch_exploration/
+pdf_text_dump.txt
+.streamlit/secrets.toml
+.claude/

@@ -1,0 +1,36 @@
+category,group_type,group_value,value,unit
+Satisfied (healthcare system),age,25 and under,45.73,percent
+Dissatisfied (healthcare system),age,25 and under,54.27,percent
+Satisfied (healthcare system),age,26-35,39.3,percent
+Dissatisfied (healthcare system),age,26-35,60.7,percent
+Satisfied (healthcare system),age,36-45,30.0,percent
+Dissatisfied (healthcare system),age,36-45,70.0,percent
+Satisfied (healthcare system),age,46-55,31.41,percent
+Dissatisfied (healthcare system),age,46-55,68.59,percent
+Satisfied (healthcare system),age,56-65,35.07,percent
+Dissatisfied (healthcare system),age,56-65,64.93,percent
+Satisfied (healthcare system),age,66-75,36.58,percent
+Dissatisfied (healthcare system),age,66-75,63.42,percent
+Satisfied (healthcare system),age,76 plus,55.47,percent
+Dissatisfied (healthcare system),age,76 plus,44.53,percent
+Very good (self-rated health),age,25 and under,61.91,percent
+Good (self-rated health),age,25 and under,29.95,percent
+Fair/bad/very bad (self-rated health),age,25 and under,8.13,percent
+Very good (self-rated health),age,26-35,49.62,percent
+Good (self-rated health),age,26-35,39.59,percent
+Fair/bad/very bad (self-rated health),age,26-35,10.79,percent
+Very good (self-rated health),age,36-45,42.2,percent
+Good (self-rated health),age,36-45,46.52,percent
+Fair/bad/very bad (self-rated health),age,36-45,11.28,percent
+Very good (self-rated health),age,46-55,35.5,percent
+Good (self-rated health),age,46-55,46.91,percent
+Fair/bad/very bad (self-rated health),age,46-55,17.59,percent
+Very good (self-rated health),age,56-65,28.3,percent
+Good (self-rated health),age,56-65,50.46,percent
+Fair/bad/very bad (self-rated health),age,56-65,21.24,percent
+Very good (self-rated health),age,66-75,25.43,percent
+Good (self-rated health),age,66-75,46.64,percent
+Fair/bad/very bad (self-rated health),age,66-75,27.93,percent
+Very good (self-rated health),age,76 plus,17.49,percent
+Good (self-rated health),age,76 plus,45.03,percent
+Fair/bad/very bad (self-rated health),age,76 plus,37.48,percent

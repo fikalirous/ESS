@@ -1,0 +1,11 @@
+category,group_type,group_value,value,unit
+Satisfied,employment,In paid work,86.21,percent
+Dissatisfied,employment,In paid work,13.79,percent
+Satisfied,employment,"Unemployed, looking for job",70.84,percent
+Dissatisfied,employment,"Unemployed, looking for job",29.16,percent
+Satisfied,employment,Inactive (not looking for a job),85.01,percent
+Dissatisfied,employment,Inactive (not looking for a job),14.99,percent
+Satisfied,employment,Refusal/Don't know,16.54,percent
+Dissatisfied,employment,Refusal/Don't know,83.46,percent
+Satisfied,employment,Total Population,85.05,percent
+Dissatisfied,employment,Total Population,14.95,percent

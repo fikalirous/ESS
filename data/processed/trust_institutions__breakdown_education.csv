@@ -1,0 +1,26 @@
+category,group_type,group_value,value,unit
+Garda,education,<Lower Secondary,67.69,percent
+Legal System,education,<Lower Secondary,42.11,percent
+Parliament,education,<Lower Secondary,38.22,percent
+Political Parties,education,<Lower Secondary,23.96,percent
+Politicians,education,<Lower Secondary,25.91,percent
+Garda,education,Lower Secondary,64.53,percent
+Legal System,education,Lower Secondary,50.27,percent
+Parliament,education,Lower Secondary,37.57,percent
+Political Parties,education,Lower Secondary,27.6,percent
+Politicians,education,Lower Secondary,30.16,percent
+Garda,education,Upper Secondary,70.02,percent
+Legal System,education,Upper Secondary,56.82,percent
+Parliament,education,Upper Secondary,41.84,percent
+Political Parties,education,Upper Secondary,31.06,percent
+Politicians,education,Upper Secondary,30.65,percent
+Garda,education,Advanced Vocational,73.67,percent
+Legal System,education,Advanced Vocational,56.37,percent
+Parliament,education,Advanced Vocational,41.05,percent
+Political Parties,education,Advanced Vocational,28.37,percent
+Politicians,education,Advanced Vocational,33.1,percent
+Garda,education,Tertiary,77.03,percent
+Legal System,education,Tertiary,68.59,percent
+Parliament,education,Tertiary,59.07,percent
+Political Parties,education,Tertiary,35.79,percent
+Politicians,education,Tertiary,40.31,percent

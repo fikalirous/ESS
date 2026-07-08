@@ -1,0 +1,11 @@
+category,group_type,group_value,value,unit
+Yes,education,Less than lower secondary,84.58,percent
+No,education,Less than lower secondary,15.42,percent
+Yes,education,Lower secondary,71.34,percent
+No,education,Lower secondary,28.66,percent
+Yes,education,Upper secondary,66.61,percent
+No,education,Upper secondary,33.39,percent
+Yes,education,Advanced vocational,69.48,percent
+No,education,Advanced vocational,30.52,percent
+Yes,education,Tertiary education,63.3,percent
+No,education,Tertiary education,36.7,percent

@@ -1,0 +1,19 @@
+ess_round,year,series,value
+2,2004,Not at all true,8.5932
+5,2010,Not at all true,20.776
+9,2018,Not at all true,7.9949
+2,2004,A little true,13.9081
+5,2010,A little true,25.8492
+9,2018,A little true,16.3706
+2,2004,Quite true,34.0298
+5,2010,Quite true,28.3015
+9,2018,Quite true,32.9526
+2,2004,Very true,43.4689
+5,2010,Very true,25.0734
+9,2018,Very true,42.6819
+2,2004,Insecure (combined: not at all/a little true),22.5014
+5,2010,Insecure (combined: not at all/a little true),46.6251
+9,2018,Insecure (combined: not at all/a little true),24.3655
+2,2004,Secure (combined: quite/very true),77.4987
+5,2010,Secure (combined: quite/very true),53.3749
+9,2018,Secure (combined: quite/very true),75.6345

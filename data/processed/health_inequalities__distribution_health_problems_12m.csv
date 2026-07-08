@@ -1,0 +1,13 @@
+ess_round,year,response_category,freq,percent,cum_percent
+11,2023,Heart or circulation problem,109.7694,5.44,
+11,2023,High blood pressure,248.4917,12.32,
+11,2023,Breathing problems,140.3446,6.96,
+11,2023,Allergies,139.4342,6.91,
+11,2023,Back or neck pain,368.2053,18.26,
+11,2023,Muscular or joint pain in hand or arm,242.3996,12.02,
+11,2023,Muscular or joint pain in foot or leg,274.1416,13.59,
+11,2023,Stomach or digestion related,179.3643,8.89,
+11,2023,Skin condition related,111.4312,5.52,
+11,2023,Severe headaches,87.6786,4.35,
+11,2023,Diabetes,64.3705,3.19,
+11,2023,None of these,1051.819,52.15,

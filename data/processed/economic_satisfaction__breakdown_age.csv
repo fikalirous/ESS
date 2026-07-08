@@ -1,0 +1,15 @@
+category,group_type,group_value,value,unit
+Satisfied,age,25 and under,42.13,percent
+Dissatisfied,age,25 and under,57.87,percent
+Satisfied,age,26-35,44.81,percent
+Dissatisfied,age,26-35,55.19,percent
+Satisfied,age,36-45,54.08,percent
+Dissatisfied,age,36-45,45.92,percent
+Satisfied,age,46-55,50.09,percent
+Dissatisfied,age,46-55,49.91,percent
+Satisfied,age,56-65,46.39,percent
+Dissatisfied,age,56-65,53.61,percent
+Satisfied,age,66-75,50.46,percent
+Dissatisfied,age,66-75,49.54,percent
+Satisfied,age,76+,57.41,percent
+Dissatisfied,age,76+,42.59,percent

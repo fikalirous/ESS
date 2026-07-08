@@ -1,0 +1,5 @@
+ess_round,year,response_category,freq,percent,cum_percent
+10,2021/22,"Yes, someone living with me tested positive for COVID-19",867.4261,49.37,49.37
+10,2021/22,"Yes, I think someone living with me had COVID-19 but they  were not tested/did no",65.5243,3.73,53.1
+10,2021/22,"No, no one living with me had COVID-19",674.6032,38.4,91.49
+10,2021/22,I have not lived with anyone since the start of the pandemic,149.4464,8.51,100.0
